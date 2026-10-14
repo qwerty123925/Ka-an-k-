@@ -1,0 +1,7 @@
+{
+  "name": "Kaçan Çıkış",
+  "description": "Zor ama adil, sinir bozucu ve eğlenceli 2D neon labirent oyunu. Çıkış kaçıyor, duvarlar hareket ediyor, sahte kapılar seni bekliyor!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
